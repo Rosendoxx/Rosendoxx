@@ -21,8 +21,8 @@ Sempre buscando aprender, evoluir e colaborar em projetos que impactem positivam
 ---
 
 ### 📫 Como me encontrar:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-tavares--/)]https://www.linkedin.com/in/leandro-tavares--/  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrosoft0813@gmail.com)](mailto:leandrosoft0813@gmail.com)  
+[!LinkedIn(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-tavares--/)]https://www.linkedin.com/in/leandro-tavares--/  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrosoft0813@gmail.com)](mailto:leandrosoft0813@gmail.com) leandrosoft0813@gmail.com  
 
 ---
 
