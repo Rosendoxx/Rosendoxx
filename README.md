@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## 👋 Olá, eu sou Leandro Tavares  
 
 ### 🚀 Sobre mim  
