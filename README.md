@@ -20,12 +20,6 @@ Sempre buscando aprender, evoluir e colaborar em projetos que impactem positivam
 
 ---
 
-### 📊 GitHub Stats  
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=transparent)  
-
----
-
 ### 📫 Como me encontrar:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-tavares--/)]https://www.linkedin.com/in/leandro-tavares--/  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrosoft0813@gmail.com)](mailto:leandrosoft0813@gmail.com)  
